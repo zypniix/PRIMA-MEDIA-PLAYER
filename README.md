@@ -1,6 +1,5 @@
 # OOMS-Project
 
-![MediaPlayerUI](student/src/ui2.PNG)
 
 ## To run the player
 Download and install proper java jdk and jre to run the application.
